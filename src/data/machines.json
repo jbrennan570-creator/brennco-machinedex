@@ -1,0 +1,587 @@
+[
+  {
+    "id": "MDX-001",
+    "name": "Bliss 110c",
+    "type": "Mechanical Stamping Press",
+    "manufacturer": "E.W. Bliss",
+    "category": "Metal Forming",
+    "capability": "110 Tons",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Bliss%20110c",
+    "status": "Operational",
+    "bay": "Forming Bay A",
+    "overview": "Bliss 110c is cataloged as a mechanical stamping press for metal forming work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "110 Tons"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Mechanical Stamping Press"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "E.W. Bliss"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-002",
+    "name": "Bliss 45c",
+    "type": "Mechanical Stamping Press",
+    "manufacturer": "E.W. Bliss",
+    "category": "Metal Forming",
+    "capability": "45 Tons",
+    "image": "https://placehold.co/900x620/151a20/f7c948?text=Bliss%2045c",
+    "status": "Operational",
+    "bay": "Forming Bay B",
+    "overview": "Bliss 45c is cataloged as a mechanical stamping press for metal forming work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "45 Tons"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Mechanical Stamping Press"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "E.W. Bliss"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-003",
+    "name": "Twin Presses",
+    "type": "Two-Stage Mechanical Stamping Press Set",
+    "manufacturer": "Toledo / Rousselle",
+    "category": "Metal Forming",
+    "capability": "Unknown",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Twin%20Presses",
+    "status": "Inspect",
+    "bay": "Forming Bay A",
+    "overview": "Twin Presses is cataloged as a two-stage mechanical stamping press set for metal forming work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Capability",
+        "value": "Unknown"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Two-Stage Mechanical Stamping Press Set"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Toledo / Rousselle"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-004",
+    "name": "Tiny Press",
+    "type": "Mechanical Stamping Press",
+    "manufacturer": "Alva Allen",
+    "category": "Metal Forming",
+    "capability": "12 Tons",
+    "image": "https://placehold.co/900x620/151a20/f7c948?text=Tiny%20Press",
+    "status": "Operational",
+    "bay": "Forming Bay B",
+    "overview": "Tiny Press is cataloged as a mechanical stamping press for metal forming work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "12 Tons"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Mechanical Stamping Press"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Alva Allen"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-005",
+    "name": "Prototrak Mill",
+    "type": "CNC / Manual Vertical Mill",
+    "manufacturer": "TRAK / Southwestern Industries",
+    "category": "Machining",
+    "capability": "3 Axis",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Prototrak%20Mill",
+    "status": "Calibrate",
+    "bay": "Machine Bay",
+    "overview": "Prototrak Mill is cataloged as a cnc / manual vertical mill for machining work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Axes",
+        "value": "3 Axis"
+      },
+      {
+        "label": "Machine Type",
+        "value": "CNC / Manual Vertical Mill"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "TRAK / Southwestern Industries"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-006",
+    "name": "Acra Mill",
+    "type": "Manual Vertical Knee Mill",
+    "manufacturer": "ACRA",
+    "category": "Machining",
+    "capability": "60-4200 RPM",
+    "image": "https://placehold.co/900x620/151a20/f7c948?text=Acra%20Mill",
+    "status": "Operational",
+    "bay": "Machine Bay",
+    "overview": "Acra Mill is cataloged as a manual vertical knee mill for machining work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Speed Range",
+        "value": "60-4200 RPM"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Manual Vertical Knee Mill"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "ACRA"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-007",
+    "name": "Bridgeport Mill",
+    "type": "Bridgeport EZ-TRAK DX Vertical Knee Mill",
+    "manufacturer": "Bridgeport",
+    "category": "Machining",
+    "capability": "Unknown",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Bridgeport%20Mill",
+    "status": "Operational",
+    "bay": "Machine Bay",
+    "overview": "Bridgeport Mill is cataloged as a bridgeport ez-trak dx vertical knee mill for machining work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Capability",
+        "value": "Unknown"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Bridgeport EZ-TRAK DX Vertical Knee Mill"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Bridgeport"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-008",
+    "name": "Clausing Lathe",
+    "type": "Manual Engine Lathe",
+    "manufacturer": "Clausing 600 Group",
+    "category": "Machining",
+    "capability": "13 in",
+    "image": "https://placehold.co/900x620/151a20/f7c948?text=Clausing%20Lathe",
+    "status": "Inspect",
+    "bay": "Machine Bay",
+    "overview": "Clausing Lathe is cataloged as a manual engine lathe for machining work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Model / Key Spec",
+        "value": "13 in"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Manual Engine Lathe"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Clausing 600 Group"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-009",
+    "name": "Chmer EDM",
+    "type": "Wire EDM",
+    "manufacturer": "CHMER",
+    "category": "Electrical Discharge Machining",
+    "capability": "G32F",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Chmer%20EDM",
+    "status": "Operational",
+    "bay": "EDM Room",
+    "overview": "Chmer EDM is cataloged as a wire edm for electrical discharge machining work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Model / Key Spec",
+        "value": "G32F"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Wire EDM"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "CHMER"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-010",
+    "name": "OMAX Waterjet",
+    "type": "Abrasive Waterjet Cutting System",
+    "manufacturer": "OMAX",
+    "category": "Cutting",
+    "capability": "5555",
+    "image": "https://placehold.co/900x620/151a20/f7c948?text=OMAX%20Waterjet",
+    "status": "Calibrate",
+    "bay": "Cutting Bay",
+    "overview": "OMAX Waterjet is cataloged as a abrasive waterjet cutting system for cutting work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Model / Key Spec",
+        "value": "5555"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Abrasive Waterjet Cutting System"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OMAX"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-011",
+    "name": "Plasma Table",
+    "type": "CNC Plasma Cutting Table",
+    "manufacturer": "Unknown",
+    "category": "Cutting",
+    "capability": "10 ft x 13 ft footprint",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Plasma%20Table",
+    "status": "Operational",
+    "bay": "Cutting Bay",
+    "overview": "Plasma Table is cataloged as a cnc plasma cutting table for cutting work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Footprint",
+        "value": "10 ft x 13 ft footprint"
+      },
+      {
+        "label": "Machine Type",
+        "value": "CNC Plasma Cutting Table"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Unknown"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-012",
+    "name": "Press Brake",
+    "type": "Hydraulic Press Brake",
+    "manufacturer": "Premier",
+    "category": "Metal Forming",
+    "capability": "40 Tons",
+    "image": "https://placehold.co/900x620/151a20/f7c948?text=Press%20Brake",
+    "status": "Operational",
+    "bay": "Forming Bay B",
+    "overview": "Press Brake is cataloged as a hydraulic press brake for metal forming work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "40 Tons"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Hydraulic Press Brake"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Premier"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  },
+  {
+    "id": "MDX-013",
+    "name": "Harig Grinder",
+    "type": "Manual Surface Grinder",
+    "manufacturer": "Harig",
+    "category": "Grinding",
+    "capability": "Super 612",
+    "image": "https://placehold.co/900x620/111827/00d5ff?text=Harig%20Grinder",
+    "status": "Inspect",
+    "bay": "Finishing Bay",
+    "overview": "Harig Grinder is cataloged as a manual surface grinder for grinding work. This prototype record is ready for real shop photos, manuals, tooling notes, and maintenance history.",
+    "specs": [
+      {
+        "label": "Model / Key Spec",
+        "value": "Super 612"
+      },
+      {
+        "label": "Machine Type",
+        "value": "Manual Surface Grinder"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "Harig"
+      }
+    ],
+    "photos": [
+      "Front profile",
+      "Controls",
+      "Work area"
+    ],
+    "documentation": [
+      {
+        "title": "Operator quick card",
+        "kind": "PDF placeholder"
+      },
+      {
+        "title": "Maintenance checklist",
+        "kind": "Checklist placeholder"
+      },
+      {
+        "title": "Setup notes",
+        "kind": "Doc placeholder"
+      }
+    ]
+  }
+]
