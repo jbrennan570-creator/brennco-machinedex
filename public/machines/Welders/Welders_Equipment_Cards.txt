@@ -1,0 +1,189 @@
+============================================================
+BRENNCO EQUIPMENT CARD
+============================================================
+
+Equipment Name
+TIG Welder
+
+Formal Name
+Miller Syncrowave 250 AC/DC Arc Welding Power Source
+
+Manufacturer
+Miller Electric
+
+Equipment Type
+AC/DC TIG / Stick Welder
+
+Category
+Welding
+
+Status
+Operational
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model
+Syncrowave 250
+
+Manufacturer
+Miller Electric
+
+Serial Number
+Unknown
+
+Year Manufactured
+Unknown
+
+Country of Manufacture
+Unknown
+
+============================================================
+WELDING PROCESSES
+============================================================
+
+Supported Processes
+
+• GTAW (TIG)
+• SMAW (Stick)
+
+Output Type
+
+AC/DC
+
+Cooling
+
+Air Cooled
+(To Be Verified)
+
+============================================================
+OBSERVED ACCESSORIES
+============================================================
+
+• TIG torch
+• Ground clamp
+• Foot pedal (not visible)
+• Welding helmet
+• Cart mounted
+
+============================================================
+PHOTO NOTES
+============================================================
+
+Visible Markings
+
+• Miller
+• Syncrowave 250
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Outstanding Research
+
+• Serial number
+• Input voltage
+• Maximum output current
+• Duty cycle
+• Weight
+• OEM manual
+
+============================================================
+BRENNCO EQUIPMENT CARD
+============================================================
+
+Equipment Name
+
+MIG Welder
+
+Formal Name
+
+Airco Dip-Stick 250 Constant Voltage Wire Welder
+
+Manufacturer
+
+Airco
+
+Equipment Type
+
+CV MIG Welder
+
+Category
+
+Welding
+
+Status
+
+Operational
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model
+
+Dip-Stick 250
+
+Manufacturer
+
+Airco
+
+Serial Number
+
+Unknown
+
+Year Manufactured
+
+Unknown
+
+Country of Manufacture
+
+Unknown
+
+============================================================
+WELDING PROCESSES
+============================================================
+
+Supported Processes
+
+• GMAW (MIG)
+
+Output Type
+
+Constant Voltage
+
+Wire Feed
+
+Integrated / To Be Verified
+
+============================================================
+OBSERVED ACCESSORIES
+============================================================
+
+• MIG gun
+• Ground cable
+• Cart mounted
+
+============================================================
+PHOTO NOTES
+============================================================
+
+Visible Markings
+
+• AIRCO
+• Dip-Stick 250
+• Arc Welding Power Source
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Outstanding Research
+
+• Serial number
+• Input voltage
+• Maximum output
+• Duty cycle
+• Weight
+• OEM manual

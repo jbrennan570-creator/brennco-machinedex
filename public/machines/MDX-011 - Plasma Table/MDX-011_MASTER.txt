@@ -1,0 +1,338 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-011
+
+Machine Name
+Plasma Table
+
+Formal Name
+CNC Plasma Cutting Table
+
+Manufacturer
+Unknown
+
+Manufacturer Era
+Unknown
+
+Machine Type
+CNC Plasma Cutting Table
+
+Category
+Cutting
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+Unknown
+
+Manufacturer / Brand Marking
+Unknown
+
+Control / System Marking
+Unknown
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Gantry-style CNC plasma cutting table
+
+Overall Footprint
+10 ft x 13 ft
+
+Cutting Envelope
+Unknown
+
+X-Axis Travel
+Unknown
+
+Y-Axis Travel
+Unknown
+
+Z-Axis Travel
+Unknown
+
+Table Type
+Slatted plasma cutting table
+
+Torch Quantity
+Single plasma torch visible
+
+Torch Height Control
+Present / To Be Verified
+
+Maximum Workpiece Size
+Unknown
+
+Maximum Workpiece Weight
+Unknown
+
+============================================================
+FLUID / GAS / FUME SPECIFICATIONS
+============================================================
+
+Cutting Process
+Plasma arc cutting
+
+Plasma Gas
+Compressed air / To Be Verified
+
+Shield Gas
+Unknown
+
+Air Supply Requirements
+Unknown
+
+Fume Extraction
+Unknown
+
+Downdraft / Water Table
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Supply
+Required for plasma cutting / Exact specifications unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Plasma Power Supply
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+Torch Current Range
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Unknown
+
+CAD / CAM Software
+Unknown
+
+Motion Control System
+Unknown
+
+Control Interface
+Unknown
+
+Observed Control Features / Devices
+Not visible in current photos.
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+13 ft
+
+Overall Width
+10 ft
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• CNC plasma cutting
+• Flat-pattern cutting
+• Profile cutting
+• Piercing
+• Plate and sheet cutting
+
+Typical Materials
+
+• Mild steel
+• Stainless steel / To Be Verified
+• Aluminum / To Be Verified
+• Conductive metals generally compatible with plasma cutting
+
+Material Thickness Range
+Unknown
+
+Maximum Work Envelope
+Unknown
+
+Tooling / Workholding Interface
+Slatted cutting table
+
+Visible Tooling / Work Area
+
+• Gantry bridge
+• Plasma torch
+• Slatted cutting bed
+• Drag chain / cable carrier
+• Sheet/plate support surface
+
+General Process Notes
+
+Plasma cutting is a thermal cutting process for electrically conductive
+materials. A plasma arc melts the material while high-velocity gas removes
+molten metal from the cut path.
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Plasma Power Supply Manual
+Not Yet Added
+
+Torch / Consumables Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Missing / Not Yet Photographed
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Machine Photos and Brennco-provided footprint
+
+Outstanding Research
+
+• Locate manufacturer nameplate
+• Record exact manufacturer
+• Record exact model number
+• Record serial number
+• Identify plasma power supply brand and model
+• Identify torch model
+• Identify control system
+• Identify CAD/CAM software
+• Confirm cutting envelope
+• Confirm X/Y/Z travel
+• Confirm maximum workpiece size
+• Confirm maximum workpiece weight
+• Confirm torch current range
+• Confirm compressed air requirements
+• Confirm electrical requirements
+• Confirm fume extraction or water/downdraft configuration
+• Confirm machine weight
+• Confirm overall height
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Machine type
+• Gantry-style plasma cutting table configuration
+• Slatted cutting table
+• Single torch visible
+• Overall machine photo reference
+• Tooling / cutting area photo reference
+• Product photo reference
+• Overall footprint of 10 ft x 13 ft provided by Brennco
+
+Medium Confidence
+
+• Torch height control
+  A torch-height-control style assembly appears to be present near the torch,
+  but the exact system should be verified in person.
+
+• Compressed air as plasma gas
+  Compressed air is common for shop plasma cutting systems, but the actual
+  gas and air requirements should be verified from the plasma power supply
+  and torch documentation.
+
+Low Confidence / Unknown
+
+• Manufacturer
+• Exact model number
+• Serial number
+• Exact manufacture year
+• Cutting envelope
+• Axis travels
+• Plasma power supply model
+• Torch model
+• Control system
+• Electrical requirements
+• Air requirements
+• Fume extraction configuration
+• Machine weight
+• Overall height
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.
+Overall footprint of 10 ft x 13 ft added from Brennco-provided measurement.
+General plasma cutting information included only where manufacturer-specific data is unavailable.

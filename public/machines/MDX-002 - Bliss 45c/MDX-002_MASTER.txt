@@ -1,0 +1,216 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-002
+
+Machine Name
+Bliss 45c
+
+Formal Name
+E.W. Bliss 45-Ton Mechanical Stamping Press
+
+Manufacturer
+E.W. Bliss
+
+Manufacturer Era
+Gulf + Western / National Machine Tool Builders Association era
+
+Machine Type
+Mechanical Stamping Press
+
+Category
+Metal Forming
+
+Status
+Operational
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Serial Number
+H66453
+
+Secondary Number
+HP 50163
+
+Asset Number
+(TBD)
+
+Year Manufactured
+1974
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+U.S.A.
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Rated Capacity
+45 Tons
+
+Stroke
+3.000 in
+
+Slide Adjustment
+4.000 in
+
+Shut Height
+12.000 in
+
+Operating Speed
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Maximum Press Air Pressure
+Unknown
+
+Maximum Clutch Air Pressure
+Unknown
+
+Slide Balance Air Pressure
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Unknown
+
+Observed Operating Modes
+Unknown
+
+Observed Indicators
+Unknown
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Blanking
+• Piercing
+• Forming
+• Progressive Die Stamping
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+
+Unknown
+
+Maximum Die Size
+
+Unknown
+
+Bolster Size
+
+Unknown
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Hydraulic/Pneumatic Drawings
+Not Yet Added
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Manufacturer
+• Rated capacity
+• Serial number
+• Year manufactured
+• Stroke
+• Slide adjustment
+• Country of manufacture
+
+Medium Confidence
+
+• Shut height
+  The visible plate appears to show 12 in, but the plate is worn and should
+  be verified in person.
+
+Low Confidence / Unknown
+
+• Operating speed
+• Motor horsepower
+• Electrical requirements
+• Pneumatic specifications
+• Bolster size
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications extracted by ChatGPT from machine nameplate and visible machine photos.

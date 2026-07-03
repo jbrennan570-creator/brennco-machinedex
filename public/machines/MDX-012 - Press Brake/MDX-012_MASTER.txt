@@ -1,0 +1,324 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-012
+
+Machine Name
+Press Brake
+
+Formal Name
+Premier 640-2-BH-R Hydraulic Press Brake
+
+Manufacturer
+Premier Press Brake Sales & Service
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Hydraulic Press Brake
+
+Category
+Metal Forming
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+640-2-BH-R
+
+Manufacturer / Brand Marking
+Premier
+
+Control / System Marking
+Hurco Autobend 7
+
+Serial Number
+188
+
+Asset Number
+(TBD)
+
+Year Manufactured
+1998
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Hydraulic press brake
+
+Rated Capacity
+40 Tons
+
+Bending Length
+Unknown
+
+Overall Bed Length
+Unknown
+
+Distance Between Housings
+Unknown
+
+Stroke
+Unknown
+
+Open Height
+Unknown
+
+Throat Depth
+Unknown
+
+Back Gauge
+Present / To Be Verified
+
+Back Gauge Axes
+Unknown
+
+Ram Control
+Hydraulic
+
+Maximum Hydraulic Pressure
+3000 PSI
+
+Oil Type
+ISO VG 46 AW
+
+Horsepower
+5 HP
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Requirements
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Supply Voltage
+208 VAC
+
+Phase
+3 Phase
+
+Frequency
+60 Hz
+
+Main Motor
+5 HP
+
+Full Load Current
+Unknown
+
+Control Voltage
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Hurco Autobend 7
+
+Control Interface
+Press brake control console with display, keypad, and machine control station
+
+Observed Control Features / Devices
+
+• Hurco Autobend 7 display/keypad
+• Protect key switch
+• Run button
+• Stop button
+• Ram Control On key switch
+• Ram Control On green indicator/button
+• Bottom Limit button
+• Stop button
+• Start button
+• Ram Up button
+• Hand / Foot selector
+• Jog / Manual / Auto selector
+• Double Stop Off / On selector
+
+Observed Screen State
+Screen dark / unreadable in photo.
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+4650 lb
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Bending
+• Forming
+• Flanging
+• Press brake forming
+• Sheet metal and plate bending
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+Unknown
+
+Maximum Work Envelope
+Unknown
+
+Tooling / Workholding Interface
+Press brake punch and die tooling
+
+Visible Tooling / Work Area
+
+• Segmented upper tooling
+• Lower die / die holder
+• Back gauge rail / To Be Verified
+• Front ram and bed tooling area
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Hydraulic Manual
+Not Yet Added
+
+Tooling Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Present
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Nameplate and Visible Machine Photos
+
+Outstanding Research
+
+• Confirm exact bending length / bed length
+• Confirm distance between housings
+• Confirm stroke
+• Confirm open height
+• Confirm throat depth
+• Confirm back gauge type and axes
+• Confirm full load current
+• Confirm control voltage
+• Confirm overall dimensions
+• Confirm tooling style / compatibility
+• Locate Hurco Autobend 7 manual
+• Locate Premier press brake manual or service documentation
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Premier brand marking
+• Model / size marking
+• Serial number
+• Rated capacity
+• Date manufactured
+• Supply voltage
+• Phase and frequency
+• Maximum hydraulic pressure
+• Oil type
+• Horsepower
+• Machine weight
+• Hurco Autobend 7 control marking
+• Overall machine photo reference
+• Nameplate photo reference
+• Controls photo reference
+• Tooling photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible Premier branding, model marking,
+  rated capacity, and hydraulic press brake configuration.
+
+• Back gauge
+  A back gauge style rail/positioning system appears visible on the machine,
+  but its exact configuration and axes should be verified.
+
+Low Confidence / Unknown
+
+• Exact bending length
+• Distance between housings
+• Stroke
+• Open height
+• Throat depth
+• Back gauge axes
+• Full load current
+• Control voltage
+• Overall dimensions
+• Tooling compatibility standard
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

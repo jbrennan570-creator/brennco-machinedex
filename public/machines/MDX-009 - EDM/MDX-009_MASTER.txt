@@ -1,0 +1,325 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-009
+
+Machine Name
+Chmer EDM
+
+Formal Name
+CHMER G32F Wire Electrical Discharge Machine
+
+Manufacturer
+CHMER
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Wire EDM
+
+Category
+Electrical Discharge Machining
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+G32F
+
+Manufacturer / Brand Marking
+CHMER
+
+Control / System Marking
+CHMER EDM
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Wire electrical discharge machine
+
+X-Axis Travel
+Unknown
+
+Y-Axis Travel
+Unknown
+
+Z-Axis Travel
+Unknown
+
+U/V Axis Travel
+Unknown
+
+Maximum Workpiece Size
+Unknown
+
+Maximum Workpiece Weight
+Unknown
+
+Maximum Cutting Height
+Unknown
+
+Wire Diameter Range
+Unknown
+
+Wire Spool Capacity
+Unknown
+
+Tank Type
+Submerged / To Be Verified
+
+Work Table Size
+Unknown
+
+============================================================
+FLUID / FILTRATION SPECIFICATIONS
+============================================================
+
+Dielectric Fluid Type
+Deionized water / To Be Verified
+
+Filtration System
+Unknown
+
+Deionization System
+Unknown
+
+Reservoir Capacity
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Blast
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Power Supply
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+Generator / EDM Power Supply
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+CHMER EDM control
+
+Control Interface
+Integrated screen and keypad control panel
+
+Observed Control Features / Buttons
+
+• Alphanumeric keypad
+• Function keys F1 through F10
+• Axis controls
+• File button
+• Auto button
+• Manual button
+• MDI button
+• Help button
+• Wire control buttons
+• Start button
+• Stop button
+• Emergency stop button
+• Feed hold button
+• Power / enable pushbutton
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Wire EDM cutting
+• Precision profile cutting
+• Internal feature cutting
+• Hardened material cutting
+• Non-contact conductive material machining
+
+Typical Materials
+
+Conductive materials / Specific materials unknown
+
+Material Thickness Range
+Unknown
+
+Maximum Work Envelope
+Unknown
+
+Tooling / Workholding Interface
+Unknown
+
+Visible Workholding / Cutting Area
+
+• Wire visible in cutting area
+• Submerged work tank
+• Workpiece fixture / clamping block visible
+• Wire guides visible
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Fluid / Filtration Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Partial
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Model Marking and Machine Photos
+
+Outstanding Research
+
+• Locate manufacturer serial/specification plate
+• Record exact serial number
+• Confirm exact model variant
+• Confirm manufacture year
+• Confirm X/Y/Z travel
+• Confirm U/V travel
+• Confirm maximum workpiece size
+• Confirm maximum workpiece weight
+• Confirm maximum cutting height
+• Confirm wire diameter range
+• Confirm dielectric fluid requirements
+• Confirm filtration/deionization system details
+• Confirm supply voltage, phase, and full load current
+• Confirm machine weight
+• Confirm overall dimensions
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• CHMER brand marking
+• G32F model / size marking
+• CHMER EDM control marking
+• Wire EDM machine type
+• Overall machine photo reference
+• Nameplate / brand marking photo reference
+• Controls photo reference
+• Tooling / cutting area photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible CHMER branding, G32F marking,
+  and the machine's wire EDM configuration.
+
+• Submerged tank type
+  The machine appears to use a submerged cutting tank, but this should be
+  verified from the manual or direct operator confirmation.
+
+Low Confidence / Unknown
+
+• Serial number
+• Exact manufacture year
+• Exact model variant
+• X-axis travel
+• Y-axis travel
+• Z-axis travel
+• U/V axis travel
+• Maximum workpiece size
+• Maximum cutting height
+• Wire diameter range
+• Electrical requirements
+• Fluid / filtration specifications
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

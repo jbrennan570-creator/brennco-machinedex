@@ -1,0 +1,293 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-007
+
+Machine Name
+Bridgeport Mill
+
+Formal Name
+Bridgeport EZ-TRAK DX Vertical Knee Milling Machine
+
+Manufacturer
+Bridgeport
+
+Manufacturer Era
+Unknown
+
+Machine Type
+CNC / Manual Vertical Knee Milling Machine
+
+Category
+Machining
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+EZ-TRAK DX
+
+Control / System Marking
+EZ-TRAK DX / Bridgeport
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Vertical knee milling machine
+
+Number of Axes
+Unknown
+
+X-Axis Travel
+Unknown
+
+Y-Axis Travel
+Unknown
+
+Z-Axis Travel
+Unknown
+
+Table Size
+Unknown
+
+Spindle Taper
+Unknown
+
+Spindle Speed Range
+Unknown
+
+Speed Control Type
+Variable speed head / To Be Verified
+
+Quill Travel
+Unknown
+
+Knee Travel
+Unknown
+
+Maximum Workpiece Weight
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Blast
+Visible air/coolant line present; specifications unknown.
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Bridgeport EZ-TRAK DX
+
+Digital Readout / Auxiliary Display
+Acu-Rite 200S / To Be Verified
+
+Observed Control / Device Markings
+
+• EZ-TRAK DX
+• Bridgeport
+• Acu-Rite 200S / To Be Verified
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Milling
+• Drilling
+• Facing
+• Slotting
+• Pocketing
+• Profiling
+• Boring
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+Not Applicable / To Be Defined By Workholding and Tooling
+
+Maximum Work Envelope
+Unknown
+
+Tool Holder / Spindle Interface
+Unknown
+
+Visible Tooling / Workholding
+
+• Collet rack
+• Drill chuck
+• Milling cutter
+• Kurt milling vise
+• T-slot table
+• Table-mounted rail / scale
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Lubrication / Maintenance Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Partial
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Model Marking and Machine Photos
+
+Outstanding Research
+
+• Locate manufacturer serial/specification plate
+• Record exact serial number
+• Confirm exact model variant
+• Confirm number of controlled axes
+• Confirm spindle taper
+• Confirm table size
+• Confirm X/Y/Z travel
+• Confirm spindle speed range
+• Confirm motor horsepower
+• Confirm electrical requirements
+• Confirm machine weight
+• Confirm overall dimensions
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Bridgeport marking
+• EZ-TRAK DX marking
+• Machine type
+• Overall machine photo reference
+• Nameplate / model marking photo reference
+• Tooling photo reference
+• Product photo reference
+• Kurt vise visible in overall photo
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible Bridgeport and EZ-TRAK DX
+  markings and the machine's vertical knee mill configuration.
+
+• Digital readout / auxiliary display
+  The display appears to be an Acu-Rite 200S, but should be verified
+  directly from the unit label.
+
+Low Confidence / Unknown
+
+• Serial number
+• Exact manufacture year
+• Exact model variant
+• Number of controlled axes
+• X-axis travel
+• Y-axis travel
+• Z-axis travel
+• Table size
+• Spindle taper
+• Quill travel
+• Knee travel
+• Motor horsepower
+• Electrical requirements
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

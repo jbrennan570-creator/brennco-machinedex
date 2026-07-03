@@ -1,0 +1,304 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-003
+
+Machine Name
+Twin Presses
+
+Formal Name
+Two-Stage Mechanical Stamping Press Set
+
+Manufacturer
+Stage 1: The Toledo Machine Tool Co.
+Stage 2: Rousselle Machine Co.
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Paired Mechanical Stamping Presses
+
+Category
+Metal Forming
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+System Configuration
+Two individual mechanical stamping presses treated as one machine profile.
+
+Stage 1 Machine
+
+Manufacturer
+The Toledo Machine Tool Co.
+
+Model / Size Marking
+No. 6
+
+Serial Number
+24690
+
+Order Number
+M 50697
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Stage 2 Machine
+
+Manufacturer
+Rousselle Machine Co.
+
+Model / Size Marking
+No. 4
+
+Serial Number
+Unknown
+
+Lubrication Plate Number
+723
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Stage 1: Unknown
+Stage 2: U.S.A.
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+System Rated Capacity
+Unknown
+
+Stage 1 Rated Capacity
+Unknown
+
+Stage 2 Rated Capacity
+Unknown
+
+Stage 1 Stroke
+Unknown
+
+Stage 2 Stroke
+Unknown
+
+Stage 1 Slide Adjustment
+Unknown
+
+Stage 2 Slide Adjustment
+Unknown
+
+Stage 1 Shut Height
+Unknown
+
+Stage 2 Shut Height
+Unknown
+
+Stage 1 Operating Speed
+Unknown
+
+Stage 2 Operating Speed
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Maximum Press Air Pressure
+Unknown
+
+Maximum Clutch Air Pressure
+Unknown
+
+Slide Balance Air Pressure
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Stage 1 Main Motor
+Unknown
+
+Stage 2 Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Unknown
+
+Observed Operating Modes
+Unknown
+
+Observed Indicators
+Unknown
+
+Visible Controls / Devices
+
+Stage 1:
+Control station visible.
+Specific controller not identified.
+
+Stage 2:
+Local start / stop station visible.
+Counter visible on press body.
+Specific controller not identified.
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall System Length
+Unknown
+
+Overall System Width
+Unknown
+
+Overall System Height
+Unknown
+
+Stage 1 Machine Weight
+Unknown
+
+Stage 2 Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Stamping
+• Piercing
+• Forming
+• Sequential / Multi-Stage Pressing
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+
+Unknown
+
+Maximum Die Size
+
+Unknown
+
+Stage 1 Bolster Size
+Unknown
+
+Stage 2 Bolster Size
+Unknown
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Hydraulic/Pneumatic Drawings
+Not Yet Added
+
+Lubrication Instructions
+Partially visible on Stage 2 machine.
+
+Stage 2 Lubrication Plate Visible Text
+
+Rousselle Stamping Press
+Lubrication Instructions
+
+Recommended Lubricants:
+All Oiled Parts: Mobil Vactra Oil Heavy Medium
+Greased Parts: Mobilgrease Special with Moly
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine profile treated as a two-stage press set
+• Stage 1 manufacturer
+• Stage 1 model / size marking
+• Stage 1 serial number
+• Stage 1 order number
+• Stage 2 manufacturer
+• Stage 2 model / size marking
+• Stage 2 lubrication plate number
+• Stage 2 lubrication plate text
+
+Medium Confidence
+
+• Stage 2 country of manufacture
+  The machine casting shows Chicago, Ill. U.S.A. on the Stage 2 body.
+
+Low Confidence / Unknown
+
+• Exact manufacture years
+• Rated capacities
+• Stroke lengths
+• Slide adjustments
+• Shut heights
+• Operating speeds
+• Motor horsepower
+• Electrical requirements
+• Pneumatic specifications
+• System-level rated capacity
+• Individual machine weights
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.
+Twin presses intentionally treated as one MachineDex profile with Stage 1 and Stage 2 subsections.

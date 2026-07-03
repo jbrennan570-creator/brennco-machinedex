@@ -1,0 +1,232 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-004
+
+Machine Name
+Tiny Press
+
+Formal Name
+Alva Allen BT12 12-Ton Mechanical Stamping Press
+
+Manufacturer
+Alva Allen
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Mechanical Stamping Press
+
+Category
+Metal Forming
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+BT12
+
+Rated Marking
+12 Ton
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+U.S.A.
+
+Manufacturer Location Marking
+Clinton, MO
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Rated Capacity
+12 Tons
+
+Stroke
+Unknown
+
+Slide Adjustment
+Unknown
+
+Shut Height
+Unknown
+
+Operating Speed
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Maximum Press Air Pressure
+Unknown
+
+Maximum Clutch Air Pressure
+Unknown
+
+Slide Balance Air Pressure
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Unknown
+
+Observed Operating Modes
+Unknown
+
+Observed Indicators
+Unknown
+
+Visible Controls / Devices
+
+Local electrical control box visible.
+Specific controller not identified.
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Stamping
+• Piercing
+• Forming
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+
+Unknown
+
+Maximum Die Size
+
+Unknown
+
+Bolster Size
+
+Unknown
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Hydraulic/Pneumatic Drawings
+Not Yet Added
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Manufacturer marking
+• Model / size marking
+• Rated capacity marking
+• Country of manufacture marking
+• Manufacturer location marking
+• Overall machine photo reference
+• Tooling photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible casting markings:
+  Alva Allen, BT12, and 12 Ton.
+
+Low Confidence / Unknown
+
+• Serial number
+• Exact manufacture year
+• Stroke length
+• Slide adjustment
+• Shut height
+• Operating speed
+• Motor horsepower
+• Electrical requirements
+• Pneumatic specifications
+• Bolster size
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

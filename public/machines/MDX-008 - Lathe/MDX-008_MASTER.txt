@@ -1,0 +1,317 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-008
+
+Machine Name
+Clausing Lathe
+
+Formal Name
+Clausing 600 Group Manual Engine Lathe
+
+Manufacturer
+Clausing
+
+Manufacturer Era
+600 Group
+
+Machine Type
+Manual Engine Lathe
+
+Category
+Machining
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+13 in swing marking visible on machine base
+
+Manufacturer / Brand Marking
+Clausing 600 Group
+
+Control / DRO Marking
+Newall C80
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Manual engine lathe
+
+Swing Over Bed
+13 in / To Be Verified
+
+Distance Between Centers
+Unknown
+
+Spindle Bore
+Unknown
+
+Spindle Nose
+Unknown
+
+Spindle Speed Range
+Unknown
+
+Number of Spindle Speeds
+Unknown
+
+Bed Length
+Unknown
+
+Cross Slide Travel
+Unknown
+
+Compound Travel
+Unknown
+
+Tailstock Quill Travel
+Unknown
+
+Tailstock Taper
+Unknown
+
+Lead Screw
+Unknown
+
+Feed Rod
+Unknown
+
+Threading Capability
+Threading chart visible on machine; specific thread ranges not fully extracted.
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Blast
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Manual machine with digital readout
+
+Digital Readout
+Newall C80
+
+Observed DRO Axes
+
+• X
+• Z
+
+Observed DRO Unit / Mode
+
+• Inch mode visible
+• Absolute mode visible
+
+Observed Control / Device Markings
+
+• Newall
+• C80
+• Lathe / Mill mode marking
+• Inch / mm mode buttons
+• ABS / INC mode buttons
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Turning
+• Facing
+• Drilling
+• Boring
+• Threading
+• Parting
+• Grooving
+• Taper turning
+
+Typical Materials
+
+Unknown
+
+Material Diameter Range
+Unknown
+
+Maximum Work Envelope
+Unknown
+
+Chuck / Spindle Interface
+Unknown
+
+Visible Tooling / Workholding
+
+• 3-jaw lathe chuck
+• Drill chuck
+• Live center / center-style tooling
+• Quick-change toolpost
+• Turning tool holder
+• Boring / turning tooling visible on machine top
+• Tailstock
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+DRO Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Lubrication / Maintenance Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Partial
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Brand Markings, DRO Photo, and Machine Photos
+
+Outstanding Research
+
+• Locate manufacturer serial/specification plate
+• Record exact model number
+• Record serial number
+• Confirm exact swing over bed
+• Confirm distance between centers
+• Confirm spindle bore
+• Confirm spindle nose type
+• Confirm spindle speed range
+• Confirm motor horsepower
+• Confirm electrical requirements
+• Confirm machine weight
+• Confirm overall dimensions
+• Confirm threading chart ranges
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Clausing 600 Group marking
+• Newall C80 DRO marking
+• Manual engine lathe machine type
+• Two-axis DRO display
+• Overall machine photo reference
+• Nameplate / brand marking photo reference
+• Controls / DRO photo reference
+• Tooling photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible Clausing 600 Group branding and
+  the machine's manual engine lathe configuration.
+
+• 13 in swing marking
+  The machine base shows a 13 in marking, but exact model and full capacity
+  should be verified from the manufacturer specification plate.
+
+Low Confidence / Unknown
+
+• Exact model number
+• Serial number
+• Exact manufacture year
+• Distance between centers
+• Spindle bore
+• Spindle nose
+• Spindle speed range
+• Motor horsepower
+• Electrical requirements
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

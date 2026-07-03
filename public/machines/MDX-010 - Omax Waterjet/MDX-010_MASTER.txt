@@ -1,0 +1,336 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-010
+
+Machine Name
+OMAX Waterjet
+
+Formal Name
+OMAX 5555 Abrasive Waterjet Cutting System
+
+Manufacturer
+OMAX
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Abrasive Waterjet Cutting Machine
+
+Category
+Cutting
+
+Status
+Operational
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+5555
+
+Manufacturer / Brand Marking
+OMAX
+
+Control / System Marking
+OMAX
+
+Serial Number
+Unknown / Not Legible From Current Photo
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Gantry-style abrasive waterjet cutting table
+
+Nominal Work Envelope
+5 ft x 5 ft
+
+X-Axis Travel
+Unknown
+
+Y-Axis Travel
+Unknown
+
+Z-Axis Travel
+Unknown
+
+Maximum Workpiece Size
+Unknown
+
+Maximum Workpiece Weight
+Unknown
+
+Tank Size
+Unknown
+
+Table Support Type
+Slatted waterjet cutting grid
+
+Cutting Head
+Single cutting head visible
+
+Abrasive Delivery
+Abrasive feed line visible; system specifications unknown.
+
+High Pressure Pump
+Visible in overall photo; model and specifications unknown.
+
+============================================================
+FLUID / ABRASIVE SPECIFICATIONS
+============================================================
+
+Cutting Fluid
+Water
+
+Abrasive Type
+Unknown
+
+Abrasive Feed System
+Unknown
+
+Abrasive Hopper / Mini-Hopper
+Visible near cutting head; specifications unknown.
+
+Water Filtration / Treatment
+Unknown
+
+Tank Water Capacity
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Requirements
+Air line visible; specifications unknown.
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor / Pump Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+Main Disconnect
+Siemens disconnect visible near controller / To Be Verified
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+OMAX control station
+
+Control Interface
+Integrated monitor, keyboard, mouse, and machine control panel
+
+Observed Control Features / Devices
+
+• Emergency stop button
+• Rotary power / disconnect switch
+• Control knobs / switches
+• Keyboard
+• Mouse
+• Operator display screen
+• Lower auxiliary OMAX control panel visible
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Abrasive waterjet cutting
+• Flat-pattern cutting
+• Profile cutting
+• Piercing
+• Cutting of conductive and non-conductive materials
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+Unknown
+
+Maximum Work Envelope
+5 ft x 5 ft
+
+Tooling / Workholding Interface
+Waterjet slat table / cutting grid
+
+Visible Tooling / Work Area
+
+• Gantry bridge
+• Cutting head
+• Waterjet tank
+• Slatted support grid
+• Abrasive feed line
+• Flexible cable / hose carrier
+• High-pressure plumbing / To Be Verified
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Pump Manual
+Not Yet Added
+
+Maintenance Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Partial
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Model Plate and Machine Photos
+
+Outstanding Research
+
+• Retake model / serial plate photo straight-on and in focus
+• Record exact serial number
+• Confirm exact OMAX model variant
+• Confirm manufacture year
+• Confirm X/Y/Z travel
+• Confirm rated cutting envelope
+• Confirm maximum workpiece size
+• Confirm maximum workpiece weight
+• Identify high-pressure pump model
+• Record pump pressure rating
+• Confirm pump motor horsepower
+• Confirm abrasive feed system details
+• Confirm electrical requirements
+• Confirm machine weight
+• Confirm overall dimensions
+• Confirm water filtration / treatment requirements
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• OMAX brand marking
+• OMAX control station
+• Abrasive waterjet machine type
+• Gantry-style cutting table
+• Single cutting head visible
+• Slatted waterjet cutting grid visible
+• Overall machine photo reference
+• Nameplate / model marking photo reference
+• Controls photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible OMAX branding, the visible model
+  marking, and the machine's abrasive waterjet configuration.
+
+• Model / Size Marking
+  The plate appears to show model 5555, but the current nameplate photo is
+  angled and worn. This should be verified with a straight-on photo.
+
+• Nominal Work Envelope
+  The 5 ft x 5 ft value is consistent with the 5555 model marking and current
+  shop understanding, but should be verified from OEM specifications.
+
+Low Confidence / Unknown
+
+• Serial number
+• Exact manufacture year
+• Exact model variant
+• X-axis travel
+• Y-axis travel
+• Z-axis travel
+• Pump model
+• Pump pressure rating
+• Pump motor horsepower
+• Electrical requirements
+• Abrasive feed specifications
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.
+Brennco-specific usage notes intentionally excluded from this Master Card.
