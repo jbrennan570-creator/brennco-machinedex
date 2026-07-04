@@ -1,0 +1,191 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-001
+
+Machine Name
+Bliss 110c
+
+Formal Name
+E.W. Bliss 110-Ton Mechanical Stamping Press
+
+Manufacturer
+E.W. Bliss
+
+Manufacturer Era
+Gulf + Western Industrial Products
+
+Machine Type
+Mechanical Stamping Press
+
+Category
+Metal Forming
+
+Status
+Operational
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Serial Number
+H68036
+
+Asset Number
+(TBD)
+
+Year Manufactured
+1970–1978
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Rated Capacity
+110 Tons
+
+Stroke
+4.000 in
+
+Slide Adjustment
+4.000 in
+
+Shut Height
+18.000 in
+
+Operating Speed
+85 SPM
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Maximum Press Air Pressure
+100 PSI
+
+Maximum Clutch Air Pressure
+40 PSI
+
+Slide Balance Air Pressure
+
+50 PSI = 0 lb Die
+60 PSI = 379 lb Die
+70 PSI = 896 lb Die
+80 PSI = 1406 lb Die
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+CIECO PCI-100
+
+Observed Operating Modes
+
+• Inch
+• Single Stroke
+• Continuous
+• Forward
+• Reverse
+
+Observed Indicators
+
+• Ground OK
+• Lube Fault
+• Interrupted Stroke
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Blanking
+• Piercing
+• Forming
+• Progressive Die Stamping
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+
+Unknown
+
+Maximum Die Size
+
+Unknown
+
+Bolster Size
+
+Unknown
+
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Hydraulic/Pneumatic Drawings
+Not Yet Added
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications extracted by ChatGPT from machine nameplate.

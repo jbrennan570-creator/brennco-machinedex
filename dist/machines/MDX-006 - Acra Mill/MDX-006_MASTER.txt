@@ -1,0 +1,294 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-006
+
+Machine Name
+Acra Mill
+
+Formal Name
+ACRA Variable-Speed Vertical Knee Milling Machine
+
+Manufacturer
+ACRA
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Manual Vertical Knee Milling Machine
+
+Category
+Machining
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+Unknown
+
+Head / Brand Marking
+ACRA
+
+Control / DRO Marking
+ToAuto DRO-3Axis
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Vertical knee milling machine
+
+Number of Axes
+3 Axis DRO readout
+
+X-Axis Travel
+Unknown
+
+Y-Axis Travel
+Unknown
+
+Z-Axis Travel
+Unknown
+
+Table Size
+Unknown
+
+Spindle Taper
+Unknown
+
+Spindle Speed Range
+Low Range: 60–500 RPM
+High Range: 500–4200 RPM
+
+Speed Control Type
+Variable speed head
+
+Quill Travel
+Unknown
+
+Knee Travel
+Unknown
+
+Maximum Workpiece Weight
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Blast
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Manual machine with digital readout
+
+Digital Readout
+ToAuto DRO-3Axis
+
+Observed DRO Axes
+
+• X
+• Y
+• Z
+
+Observed Speed Ranges
+
+Low: 60–500 RPM
+High: 500–4200 RPM
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Milling
+• Drilling
+• Facing
+• Slotting
+• Pocketing
+• Profiling
+• Boring
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+Not Applicable / To Be Defined By Workholding and Tooling
+
+Maximum Work Envelope
+Unknown
+
+Tool Holder / Spindle Interface
+Unknown
+
+Visible Tooling
+
+• End mill holder with end mill
+• Insert-style milling cutter / shell-style cutter
+• Drill bit
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control / DRO Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Lubrication / Maintenance Manual
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Missing / Not Yet Photographed
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Head Plate and DRO Photos
+
+Outstanding Research
+
+• Locate manufacturer nameplate
+• Record exact model number
+• Record serial number
+• Confirm spindle taper
+• Confirm table size
+• Confirm X/Y/Z travel
+• Confirm motor horsepower
+• Confirm electrical requirements
+• Confirm machine weight
+• Confirm overall dimensions
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• ACRA brand marking
+• Machine type
+• ToAuto DRO-3Axis marking
+• 3-axis DRO display
+• Visible spindle speed range
+• Visible warning not to change RPM without motor running
+• Overall machine photo reference
+• Controls photo references
+• Tooling photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible ACRA branding, vertical knee mill
+  configuration, and variable-speed head markings.
+
+Low Confidence / Unknown
+
+• Exact model number
+• Serial number
+• Exact manufacture year
+• X-axis travel
+• Y-axis travel
+• Z-axis travel
+• Table size
+• Spindle taper
+• Quill travel
+• Knee travel
+• Motor horsepower
+• Electrical requirements
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

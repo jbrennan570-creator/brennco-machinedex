@@ -1,0 +1,259 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-005
+
+Machine Name
+Prototrak Mill
+
+Formal Name
+TRAK DPM3 CNC / Manual Milling Machine with ProtoTRAK SMX Control
+
+Manufacturer
+Southwestern Industries / TRAK
+
+Manufacturer Era
+Unknown
+
+Machine Type
+CNC / Manual Vertical Milling Machine
+
+Category
+Machining
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+TRAK DPM3
+
+Control Marking
+ProtoTRAK SMX
+
+Serial Number
+Unknown
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+Unknown
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Vertical milling machine
+
+Number of Axes
+3 Axis
+
+X-Axis Travel
+Unknown
+
+Y-Axis Travel
+Unknown
+
+Z-Axis Travel
+Unknown
+
+Table Size
+Unknown
+
+Spindle Taper
+Unknown
+
+Spindle Speed Range
+Unknown
+
+Quill Travel
+Unknown
+
+Knee Travel
+Unknown
+
+Maximum Workpiece Weight
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Blast
+Visible air line present; specifications unknown.
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+ProtoTRAK SMX
+
+Controller Manufacturer Marking
+Southwestern Industries
+
+Observed Control Features
+
+• 3 Axis display
+• Inch unit mode
+• X-axis position display
+• Y-axis position display
+• Z-axis position display
+• Spindle RPM display
+• Feed Rate display
+• Feed Go / Stop buttons
+• Feed Override controls
+• Incremental / Absolute set controls
+• Axis selection keys: X, Y, Z
+• Run mode
+• Emergency stop button
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Milling
+• Drilling
+• Pocketing
+• Profiling
+• Facing
+• Slotting
+• Boring
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+Not Applicable / To Be Defined By Workholding and Tooling
+
+Maximum Work Envelope
+Unknown
+
+Tool Holder / Spindle Interface
+Unknown
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Control Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Lubrication / Maintenance Manual
+Not Yet Added
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Model / size marking
+• Control marking
+• Controller manufacturer marking
+• Machine type
+• 3-axis control display
+• Inch unit mode
+• Observed screen values
+• Overall machine photo reference
+• Controls photo reference
+• Tooling photo reference
+• Product photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible markings:
+  TRAK DPM3, ProtoTRAK SMX, and Southwestern Industries.
+
+Low Confidence / Unknown
+
+• Serial number
+• Exact manufacture year
+• X-axis travel
+• Y-axis travel
+• Z-axis travel
+• Table size
+• Spindle taper
+• Spindle speed range
+• Motor horsepower
+• Electrical requirements
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

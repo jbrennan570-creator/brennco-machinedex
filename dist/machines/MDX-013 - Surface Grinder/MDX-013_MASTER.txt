@@ -1,0 +1,292 @@
+============================================================
+BRENNCO MACHINEDEX
+MASTER MACHINE CARD
+============================================================
+
+MachineDex ID
+MDX-013
+
+Machine Name
+Harig Grinder
+
+Formal Name
+Harig Super 612 Surface Grinder
+
+Manufacturer
+Harig Products, Inc.
+
+Manufacturer Era
+Unknown
+
+Machine Type
+Manual Surface Grinder
+
+Category
+Grinding
+
+Status
+Operational / To Be Verified
+
+============================================================
+IDENTIFICATION
+============================================================
+
+Model / Size Marking
+Super 612
+
+Manufacturer / Brand Marking
+Harig
+
+Serial Number
+15978 / To Be Verified
+
+Asset Number
+(TBD)
+
+Year Manufactured
+Unknown
+
+Date Acquired
+Unknown
+
+Machine Location
+(TBD)
+
+Country of Manufacture
+U.S.A. / To Be Verified
+
+Manufacturer Location Marking
+Chicago, Illinois / To Be Verified
+
+============================================================
+MECHANICAL SPECIFICATIONS
+============================================================
+
+Machine Configuration
+Manual surface grinder
+
+Nominal Grinding Capacity
+6 in x 12 in / To Be Verified
+
+Table Size
+Unknown
+
+Longitudinal Table Travel
+Unknown
+
+Cross Feed Travel
+Unknown
+
+Vertical Wheelhead Travel
+Unknown
+
+Grinding Wheel Size
+Unknown
+
+Spindle Speed
+Unknown
+
+Magnetic Chuck
+Present / To Be Verified
+
+Coolant System
+Unknown
+
+============================================================
+PNEUMATIC SPECIFICATIONS
+============================================================
+
+Pneumatic Requirements
+Unknown
+
+Air Assist / Air Blast
+Unknown
+
+============================================================
+ELECTRICAL
+============================================================
+
+Main Motor
+Unknown
+
+Supply Voltage
+Unknown
+
+Phase
+Unknown
+
+Full Load Current
+Unknown
+
+============================================================
+CONTROL SYSTEM
+============================================================
+
+Primary Controller
+Manual machine controls
+
+Observed Control Features / Devices
+
+• Handwheels for axis movement
+• Wheelhead / vertical feed handwheel
+• Table travel handwheel
+• Manual feed controls
+• Magnetic chuck control / To Be Verified
+• Grinder switch box visible
+
+Digital Readout
+Not observed
+
+============================================================
+PHYSICAL DIMENSIONS
+============================================================
+
+Overall Length
+Unknown
+
+Overall Width
+Unknown
+
+Overall Height
+Unknown
+
+Machine Weight
+Unknown
+
+Foundation Requirements
+Unknown
+
+============================================================
+CAPABILITIES
+============================================================
+
+Primary Processes
+
+• Surface grinding
+• Precision flat grinding
+• Tooling cleanup
+• Die component grinding
+• Fixture component grinding
+
+Typical Materials
+
+Unknown
+
+Material Thickness Range
+Not Applicable / To Be Defined By Workholding and Wheel Selection
+
+Maximum Work Envelope
+6 in x 12 in / To Be Verified
+
+Tooling / Workholding Interface
+Magnetic chuck / To Be Verified
+
+Visible Tooling / Work Area
+
+• Grinding wheel guard
+• Magnetic chuck / workholding surface
+• Manual table
+• Grinding wheel spindle area
+
+============================================================
+DOCUMENTATION
+============================================================
+
+Machine Manual
+Not Yet Added
+
+Electrical Drawings
+Not Yet Added
+
+Parts Manual
+Not Yet Added
+
+Lubrication / Maintenance Manual
+Not Yet Added
+
+Grinding Wheel Documentation
+Not Yet Added
+
+============================================================
+RESEARCH STATUS
+============================================================
+
+Identification Plate
+Present
+
+OEM Manual
+Not Located
+
+Specifications
+Partially Verified From Visible Nameplate and Machine Photos
+
+Outstanding Research
+
+• Retake nameplate photo straight-on and in focus
+• Confirm serial number
+• Confirm exact manufacturer location text
+• Confirm exact model variant
+• Confirm manufacture year
+• Confirm table size
+• Confirm axis travels
+• Confirm grinding wheel size
+• Confirm spindle speed
+• Confirm motor horsepower
+• Confirm electrical requirements
+• Confirm magnetic chuck size and controller
+• Confirm coolant system presence / absence
+• Confirm machine weight
+• Confirm overall dimensions
+
+============================================================
+DATA CONFIDENCE NOTES
+============================================================
+
+High Confidence
+
+• MachineDex ID
+• Machine name
+• Harig brand marking
+• Super 612 model marking
+• Manual surface grinder machine type
+• Overall machine photo reference
+• Nameplate photo reference
+• Controls photo reference
+• Tooling photo reference
+
+Medium Confidence
+
+• Formal name
+  The formal name is assembled from visible Harig and Super 612 markings.
+
+• Nominal Grinding Capacity
+  Super 612 commonly indicates a 6 in x 12 in surface grinder size class,
+  but this should be verified from OEM specifications or direct measurement.
+
+• Serial number
+  The visible serial number appears to read 15978, but the plate should be
+  verified with a clearer straight-on photo.
+
+Low Confidence / Unknown
+
+• Exact manufacture year
+• Table size
+• Longitudinal table travel
+• Cross feed travel
+• Vertical wheelhead travel
+• Grinding wheel size
+• Spindle speed
+• Motor horsepower
+• Electrical requirements
+• Magnetic chuck details
+• Coolant system details
+• Machine weight
+• Overall dimensions
+
+============================================================
+REVISION HISTORY
+============================================================
+
+2026-07-02
+Initial MachineDex Master Card Created.
+Specifications and identification data extracted by ChatGPT from visible machine photos.

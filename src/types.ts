@@ -6,6 +6,7 @@ export type Machine = {
   category: string;
   capability: string;
   image: string;
+  illustrationPath?: string;
   status: "Operational" | "Inspect" | "Calibrate";
   bay: string;
   overview: string;
